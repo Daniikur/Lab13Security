@@ -1,0 +1,19 @@
+# Ignore .env file
+.env
+
+# Ignore database files (adjust path or filenames as necessary)
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Ignore Maven target folder
+/target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
